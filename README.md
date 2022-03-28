@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/kagure-nyakio/advice-generator
-- Live Site URL: 
+- Solution URL: https://github.com/kagure-nyakio/advice-generator
+- Live Site URL: https://zesty-gaufre-fcf0b2.netlify.app/
 ## My process
 
 ### Built with
